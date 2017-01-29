@@ -7,8 +7,8 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>a1a2b903-3f27-4f88-a118-8a2607596a5d</ProjectGuid>
-    <RootNamespace>MySQL_Test</RootNamespace>
+    <ProjectGuid>1dbaf62e-2e15-4920-8460-b4da1bb9342f</ProjectGuid>
+    <RootNamespace>RegexDemo</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>

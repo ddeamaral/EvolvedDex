@@ -11,3 +11,4 @@ namespace Factory
         public decimal Balance { get; set; }
     }
 }
+ 

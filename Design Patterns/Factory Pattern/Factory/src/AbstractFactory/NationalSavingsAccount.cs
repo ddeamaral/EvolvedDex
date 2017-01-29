@@ -1,5 +1,5 @@
 ﻿using System;
-
+ 
 namespace AbstractFactory
 {
     public class NationalSavingsAccount : ISavingsAccount

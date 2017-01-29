@@ -1,4 +1,4 @@
-﻿namespace AbstractFactory
+﻿  namespace AbstractFactory
 {
     public class NationalCreditUnionFactory : ICreditUnionFactory
     {

@@ -2,6 +2,6 @@
 {
     //Abstract Product
     public interface ISavingsAccount
-    {
+    { 
     }
 }

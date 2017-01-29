@@ -5,3 +5,5 @@ obj/
 Properties/
 *.csproj
 *.config
+appsettings.json
+appsettings.*.json

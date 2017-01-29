@@ -1,6 +1,6 @@
 ﻿namespace AbstractFactory
 {
-    //Abstract Product
+    //Abstract Product  
     public interface ILoanAccount
     {
     }
